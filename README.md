@@ -22,24 +22,16 @@
 - 🌌 **Inspiration**: Mystery, the occult, and the unseen structures of code
 
 ---
-
-## 🛡️ Skills & Arsenal
-
+<div align="center">
 | **Design** | **Development** | **Tools** |
 | :--- | :--- | :--- |
 | Figma | HTML5 & CSS3 | Git & GitHub |
 | Adobe XD | JavaScript (ES6+) | VS Code |
 | Photoshop | React.js | Notion |
 | Illustrator | UI/UX Principles | Blender (Basic) |
-
+</div>
 ---
-
-## 📊 The Astral Stats
-
 <div align="center">
-
-### 🌌 Coding Activity & Stats
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Al-Haitham&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide_border=true)
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Al-Haitham&theme=dark&background=1a1a2e&border=c9a227&ring=c9a227&fire=c9a227&currStreakNum=c9a227&sideNums=c9a227&dates=c9a227&sideLabels=ffffff&currStreakLabel=c9a227)
@@ -48,8 +40,6 @@
 </div>
 
 ---
-
-## 🏷️ Badges & Titles
 
 <div align="center">
 
