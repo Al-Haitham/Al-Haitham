@@ -40,11 +40,11 @@
 
 ### 🌌 Coding Activity & Stats
 
-![GitHub Stats](https://github-readme-stats-eight.vercel.app/api?username=Al-Haitam&show_icons=true&theme=dark&hide_border=true&bg_color=1a1a2e&text_color=c9a227&title_color=c9a227&icon_color=c9a227&count_private=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Al-Haitham&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Al-Haitham&theme=dark&background=1a1a2e&border=c9a227&ring=c9a227&fire=c9a227&currStreakNum=c9a227&sideNums=c9a227&dates=c9a227&sideLabels=ffffff&currStreakLabel=c9a227)
 
-![Top Languages](https://github-readme-stats-eight.vercel.app/api/top-langs/?username=Al-Haitam&layout=compact&theme=dark&hide_border=true&bg_color=1a1a2e&text_color=c9a227&title_color=c9a227)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Al-Haitham&layout=compact&theme=dark)
 
 </div>
 
