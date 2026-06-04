@@ -1,78 +1,114 @@
 # ✨ Haitam
 
-> *A digital artisan weaving design and code into reality*
+> *"The path of the Beyonder is one of solitude, but the code is the thread that binds us."*
 
 ---
-![UI/UX](https://img.shields.io/badge/UI%2FUX-Designer-c9a227?style=for-the-badge&logo=figma&logoColor=white)
-![Graphic Design](https://img.shields.io/badge/Graphic-Design-c9a227?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
-![Student](https://img.shields.io/badge/Student-Digital%20Dev-c9a227?style=for-the-badge&logo=github&logoColor=white)
-## 🎭 Persona
-
-- 🎨 **UI/UX Designer** — Crafting intuitive experiences
-- 🖌️ **Graphic Designer** — Visual storytelling through color and form
-- 💻 **Digital Dev Student** — Learning to build what I design
-- 🌌 *Aspiring architect of the unseen*
-
----
-
-## 📚 Skills & Tools
-
-| Category      | Tools                          |
-|---------------|--------------------------------|
-| Design        | Figma, Adobe Creative Suite    |
-| Frontend      | HTML, CSS, JavaScript,Bootstrap|
-| Tools         | VS Code, Git, Notion           |
-| Languages     | English, Arabic, French        |
-
----
-
-## 🌠 Current Focus
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=1a1a2e&text_color=c9a227&title_color=c9a227&icon_color=c9a227" />
+
+### 👨‍💻 UI/UX Designer | Graphic Designer | Digital Dev Student
+
+*Weaving visual narratives and digital architecture.*
+
 </div>
 
 ---
 
-## 📜 Journal
+## 🎭 The Persona
 
-> *"The mind is a labyrinth, and every line of code is a thread."*
+- 🎨 **Design**: Crafting intuitive interfaces & visual stories (Figma, Adobe Suite)
+- 💻 **Development**: Building the future with HTML, CSS, JS & React
+- 📚 **Study**: Deepening knowledge in Digital Development
+- 🌌 **Inspiration**: Mystery, the occult, and the unseen structures of code
 
 ---
 
-## 🔮 Contact
+## 🛡️ Skills & Arsenal
 
-- 📧 nassouhhaitham@gmail.com
-- 🌐 https://haitam-nassouh.figma.site/
-<style type="text/CSS">
-h1 {
-  font-family: 'Cinzel', serif; /* Elegant serif font */
-  color: #c9a227;
-  letter-spacing: 0.1em;
-}
+| **Design** | **Development** | **Tools** |
+| :--- | :--- | :--- |
+| Figma | HTML5 & CSS3 | Git & GitHub |
+| Adobe XD | JavaScript (ES6+) | VS Code |
+| Photoshop | React.js | Notion |
+| Illustrator | UI/UX Principles | Blender (Basic) |
 
-p {
-  font-family: 'Inter', sans-serif;
-  color: #e0e0e0;
-}
-</style>
-<div style="display: flex; gap: 1rem; justify-content: center; margin-top: 2rem;">
-  <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#c9a227" stroke-width="1.5">
-    <circle cx="12" cy="12" r="10" />
-    <circle cx="12" cy="12" r="4" />
+---
+
+## 📊 The Astral Stats
+
+<div align="center">
+
+### 🌌 Coding Activity & Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=1a1a2e&text_color=c9a227&title_color=c9a227&icon_color=c9a227&count_private=true&include_all_commits=true)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&background=1a1a2e&border=c9a227&ring=c9a227&fire=c9a227&currStreakNum=c9a227&sideNums=c9a227&dates=c9a227&sideLabels=ffffff&currStreakLabel=c9a227)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=1a1a2e&text_color=c9a227&title_color=c9a227)
+
+</div>
+
+---
+
+## 🏷️ Badges & Titles
+
+<div align="center">
+
+![UI/UX Designer](https://img.shields.io/badge/UI%2FUX-Designer-c9a227?style=for-the-badge&logo=figma&logoColor=white)
+![Graphic Designer](https://img.shields.io/badge/Graphic-Designer-c9a227?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+![Student](https://img.shields.io/badge/Student-Digital%20Dev-c9a227?style=for-the-badge&logo=github&logoColor=white)
+![Learner](https://img.shields.io/badge/Always-Learning-c9a227?style=for-the-badge&logo=bookstack&logoColor=white)
+
+</div>
+
+---
+
+## 📜 The Journal
+
+> *"In the world of code, every bug is a mystery, and every solution is a revelation."*
+
+<div align="center">
+
+### 🌟 Recent Projects & Contributions
+
+<!-- You can add links to your repos here later -->
+
+</div>
+
+---
+
+## 🔮 Contact the Architect
+
+<div align="center">
+
+- 📧 **Email**: nassouhhaitham@gmail.com(mailto:nassouhhaitham@gmail.com)
+- 🌐 **Portfolio**: haitam-nassouh([https://your-portfolio-link.com](https://haitam-nassouh.figma.site/))
+
+</div>
+
+---
+
+<div align="center">
+
+### 🔮 *May your code compile on the first try.*
+
+<div style="display: flex; gap: 20px; justify-content: center; margin-top: 20px;">
+  <!-- Subtle Mystical SVG Icons -->
+  <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="#c9a227" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="12" cy="12" r="10"></circle>
+    <circle cx="12" cy="12" r="4"></circle>
+    <line x1="12" y1="2" x2="12" y2="4"></line>
+    <line x1="12" y1="20" x2="12" y2="22"></line>
+    <line x1="4.93" y1="4.93" x2="6.34" y2="6.34"></line>
+    <line x1="17.66" y1="17.66" x2="19.07" y2="19.07"></line>
+    <line x1="2" y1="12" x2="4" y2="12"></line>
+    <line x1="20" y1="12" x2="22" y2="12"></line>
+    <line x1="4.93" y1="19.07" x2="6.34" y2="17.66"></line>
+    <line x1="17.66" y1="6.34" x2="19.07" y2="4.93"></line>
   </svg>
-  <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#c9a227" stroke-width="1.5">
-    <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5" />
+  <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="#c9a227" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"></path>
   </svg>
 </div>
 
-<div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: radial-gradient(circle at center, #0f0f1a 0%, #1a1a2e 60%, #000000 100%); z-index: -1;"></div>
-
-<div style="display: flex; gap: 1rem; justify-content: center;">
-  <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#c9a227" stroke-width="1.5">
-    <circle cx="12" cy="12" r="10" />
-    <path d="M12 2a10 10 0 0 1 0 20 10 10 0 0 1 0-20z" />
-    <circle cx="12" cy="12" r="4" />
-  </svg>
 </div>
-
