@@ -24,10 +24,10 @@
 ---
 | **Design** | **Development** | **Tools** |
 | :--- | :--- | :--- |
-| Figma | HTML5 & CSS3 | Git & GitHub |
-| Adobe XD | JavaScript (ES6+) | VS Code |
-| Photoshop | React.js | Notion |
-| Illustrator | UI/UX Principles | Blender (Basic) |
+| Figma | HTML5 & CSS3 | GitHub |
+| Blender | JavaScript | VS Code |
+| Photoshop | PHP | Notion |
+| Illustrator | UI/UX Principles | Blender |
 ---
 
 <div align="center">
