@@ -1,82 +1,52 @@
-# ⚙️ Haitam Nassouh
-
 <div align="center">
 
-### Designer × Developer
+# ⚙️ Haitam Nassouh
 
-Building digital systems where creativity meets engineering.
+### UI/UX Designer · Developer · Visual Thinker
 
-*"Every interface is a machine. Every machine needs a blueprint."*
+`Design` · `Code` · `Systems`
 
 </div>
 
 ---
 
-## 🕯️ Archive Entry
-
-I'm a UI/UX designer and developer interested in creating things that are both functional and visually intentional.
-
-I work across design, code, and digital experimentation — turning ideas into structured experiences.
-
----
-
 <table>
 <tr>
 
 <td width="50%">
 
-## 🎨 Design Desk
+## 🕯 Profile
 
-- UI/UX Design
-- Visual Identity
-- Graphic Design
-- 3D Experiments
+**Focus**
 
-**Tools**
+UI/UX  
+Graphic Design  
+Web Development  
 
-Figma · Photoshop · Illustrator · Blender
+**Mindset**
+
+Structure over chaos.
 
 </td>
 
 <td width="50%">
 
-## ⚙️ Development Lab
+## ⚙️ Workshop
 
-- Front-end Development
-- Web Applications
-- Creative Coding
+**Design**
 
-**Stack**
+Figma  
+Photoshop  
+Illustrator  
+Blender  
 
-HTML · CSS · JavaScript · React · PHP
+**Development**
 
-</td>
-
-</tr>
-</table>
-
----
-
-## 📜 Project Archives
-
-> Current experiments and creations.
-
-<table>
-<tr>
-
-<td>
-
-### 🖥 Digital Systems
-
-Web projects, interfaces, and applications.
-
-</td>
-
-<td>
-
-### 🧩 Visual Experiments
-
-Designs, 3D work, and creative explorations.
+HTML  
+CSS  
+JavaScript  
+React  
+PHP  
 
 </td>
 
@@ -87,28 +57,47 @@ Designs, 3D work, and creative explorations.
 
 <div align="center">
 
-## ⚙️ System Records
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Al-Haitham&theme=dark&background=1a1a2e&border=c9a227&ring=c9a227&fire=c9a227&currStreakNum=c9a227&sideNums=c9a227&dates=c9a227&sideLabels=ffffff&currStreakLabel=c9a227)
+## 📜 Archives
+
+| Project | Type | Status |
+| --- | --- | --- |
+| Portfolio | Design | Building |
+| Web Apps | Development | Learning |
+| 3D Work | Visual | Exploring |
+
+</div>
+
+---
+
+<table>
+<tr>
+
+<td width="50%">
+
+## 📊 Records
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Al-Haitham&show_icons=true&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Al-Haitham&layout=compact&theme=dark&hide_border=true)
+</td>
 
-</div>
+<td width="50%">
+
+## 🧭 Links
+
+Portfolio  
+Email  
+LinkedIn  
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-## 📬 Contact
-
-nassouhhaitham@gmail.com
-
-haitam-nassouh.figma.site
-
----
-
-*"The blueprint comes first. The creation follows."*
+*"Blueprints become systems."*
 
 ⚙️
 
