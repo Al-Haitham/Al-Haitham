@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚙️ Haitam Nassouh
+# 鹰 Haitam Nassouh
 
 ### *“An architect of systems does not build chaos — he engraves structure into thought itself.”*
 
@@ -33,15 +33,15 @@ System Thinking · Modular Design · Prototyping
 
 ## 📊 SYSTEM STATUS
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Al-Haitham&theme=dark&background=1a1a2e&border=c9a227&ring=c9a227&fire=c9a227&currStreakNum=c9a227&sideNums=c9a227&dates=c9a227&sideLabels=ffffff&currStreakLabel=c9a227)
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Al-Haitham&theme=dark&background=1a1a2e&border=c9a227&ring=c9a227&fire=c9a227&currStreakNum=c9a227&sideNums=c9a227&dates=c9a227&sideLabels=ffffff&currStreakLabel=c9a227">
 
 <br>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Al-Haitham&show_icons=true&theme=dark&hide_border=true)
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Al-Haitham&show_icons=true&theme=dark&hide_border=true">
 
 <br>
 
-<img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Al-Haitham&layout=compact&theme=dark&hide_border=true">
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Al-Haitham&layout=compact&theme=dark&hide_border=true">
 
 </td>
 
