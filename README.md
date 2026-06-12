@@ -1,10 +1,13 @@
 <div align="center">
 
-# ⚙️ Haitam Nassouh
+# 鹰 Haitam Nassouh
 
-### Digital Craftsman · UI/UX Designer · Developer
 
-`Designing` · `Building` · `Experimenting`
+### Digital Craftsman
+
+`UI/UX` · `Development` · `Visual Design`
+
+*"Turning ideas into structured systems."*
 
 </div>
 
@@ -13,35 +16,40 @@
 <table>
 <tr>
 
-<td width="60%">
+<td width="33%" align="center">
 
-## 🕯️ Archive
+## 🎨
 
-I design and build digital experiences.
+### Design
 
-My work sits between:
-
-🎨 Visual Design  
-💻 Development  
-⚙️ Creative Systems  
+UI/UX  
+Branding  
+Graphics  
+3D
 
 </td>
 
-<td width="40%">
+<td width="33%" align="center">
 
-## 🗝️ Identity
+## ⚙️
 
-**Role**
+### Build
 
-Designer + Developer
+Web Apps  
+Interfaces  
+Experiments
 
-**Approach**
+</td>
 
-Systems first.
+<td width="33%" align="center">
 
-**Current Path**
+## 📚
 
-Digital Development
+### Learn
+
+Software  
+Systems  
+Technology
 
 </td>
 
@@ -50,40 +58,28 @@ Digital Development
 
 ---
 
-## ⚙️ Workshop
-
 <table>
 <tr>
 
-<td>
+<td width="50%">
 
-### 🎨 Design
+## 🕯 Archive
 
-Figma  
-Photoshop  
-Illustrator  
-Blender  
+Designer who explores the space between:
 
-</td>
-
-<td>
-
-### 💻 Development
-
-HTML / CSS  
-JavaScript  
-React  
-PHP  
+**Creativity × Engineering**
 
 </td>
 
-<td>
+<td width="50%">
 
-### 🧩 Tools
+## 🗝 Current Focus
 
-Git  
-VS Code  
-Notion  
+Building better:
+
+→ Digital experiences  
+→ Developer skills  
+→ Creative systems
 
 </td>
 
@@ -94,34 +90,49 @@ Notion
 
 <div align="center">
 
-## 📜 Projects Under Construction
+## ⚙️ Workshop
 
 </div>
 
 <table>
 <tr>
 
-<td align="center">
+<td width="25%" align="center">
 
-### 🖥️ Web
+### Design
 
-Interfaces & applications
-
-</td>
-
-<td align="center">
-
-### 🎭 Visual
-
-Branding & graphics
+Figma  
+Adobe  
+Blender
 
 </td>
 
-<td align="center">
+<td width="25%" align="center">
 
-### ⚙️ Experiments
+### Frontend
 
-3D · Systems · Ideas
+HTML  
+CSS  
+JS
+
+</td>
+
+<td width="25%" align="center">
+
+### Backend
+
+PHP  
+APIs
+
+</td>
+
+<td width="25%" align="center">
+
+### Tools
+
+Git  
+VS Code  
+Notion
 
 </td>
 
@@ -134,9 +145,29 @@ Branding & graphics
 
 ## 📊 System Records
 
+<table>
+<tr>
+
+<td>
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Al-Haitham&theme=dark&background=1a1a2e&border=c9a227&ring=c9a227&fire=c9a227&currStreakNum=c9a227&sideNums=c9a227&dates=c9a227&sideLabels=ffffff&currStreakLabel=c9a227)
+
+</td>
+
+<td>
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Al-Haitham&show_icons=true&theme=dark&hide_border=true)
 
+</td>
+
+<td>
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Al-Haitham&layout=compact&theme=dark&hide_border=true)
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
@@ -147,22 +178,22 @@ Branding & graphics
 
 <td width="50%">
 
-## 🧭 Find Me
+## 📜 Projects
 
-🌐 Portfolio  
-📧 Email  
+| Type | Status |
+| --- | --- |
+| Web | Building |
+| Design | Creating |
+| 3D | Exploring |
 
 </td>
 
 <td width="50%">
 
-## 🕰️ Current Studies
+## 🧭 Contact
 
-Learning:
-
-→ Better software engineering  
-→ Stronger systems thinking  
-→ Creative technology  
+🌐 Portfolio  
+📧 Email  
 
 </td>
 
@@ -175,6 +206,6 @@ Learning:
 
 ⚙️
 
-*"Blueprints become reality."*
+*"The blueprint shapes the creation."*
 
 </div>
