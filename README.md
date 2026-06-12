@@ -2,9 +2,9 @@
 
 # ⚙️ Haitam Nassouh
 
-### UI/UX Designer · Developer · Visual Thinker
+### Digital Craftsman · UI/UX Designer · Developer
 
-`Design` · `Code` · `Systems`
+`Designing` · `Building` · `Experimenting`
 
 </div>
 
@@ -13,40 +13,77 @@
 <table>
 <tr>
 
-<td width="50%">
+<td width="60%">
 
-## 🕯 Profile
+## 🕯️ Archive
 
-**Focus**
+I design and build digital experiences.
 
-UI/UX  
-Graphic Design  
-Web Development  
+My work sits between:
 
-**Mindset**
-
-Structure over chaos.
+🎨 Visual Design  
+💻 Development  
+⚙️ Creative Systems  
 
 </td>
 
-<td width="50%">
+<td width="40%">
+
+## 🗝️ Identity
+
+**Role**
+
+Designer + Developer
+
+**Approach**
+
+Systems first.
+
+**Current Path**
+
+Digital Development
+
+</td>
+
+</tr>
+</table>
+
+---
 
 ## ⚙️ Workshop
 
-**Design**
+<table>
+<tr>
+
+<td>
+
+### 🎨 Design
 
 Figma  
 Photoshop  
 Illustrator  
 Blender  
 
-**Development**
+</td>
 
-HTML  
-CSS  
+<td>
+
+### 💻 Development
+
+HTML / CSS  
 JavaScript  
 React  
 PHP  
+
+</td>
+
+<td>
+
+### 🧩 Tools
+
+Git  
+VS Code  
+Notion  
 
 </td>
 
@@ -57,13 +94,49 @@ PHP
 
 <div align="center">
 
-## 📜 Archives
+## 📜 Projects Under Construction
 
-| Project | Type | Status |
-| --- | --- | --- |
-| Portfolio | Design | Building |
-| Web Apps | Development | Learning |
-| 3D Work | Visual | Exploring |
+</div>
+
+<table>
+<tr>
+
+<td align="center">
+
+### 🖥️ Web
+
+Interfaces & applications
+
+</td>
+
+<td align="center">
+
+### 🎭 Visual
+
+Branding & graphics
+
+</td>
+
+<td align="center">
+
+### ⚙️ Experiments
+
+3D · Systems · Ideas
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 📊 System Records
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Al-Haitham&show_icons=true&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Al-Haitham&layout=compact&theme=dark&hide_border=true)
 
 </div>
 
@@ -74,19 +147,22 @@ PHP
 
 <td width="50%">
 
-## 📊 Records
+## 🧭 Find Me
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Al-Haitham&show_icons=true&theme=dark&hide_border=true)
+🌐 Portfolio  
+📧 Email  
 
 </td>
 
 <td width="50%">
 
-## 🧭 Links
+## 🕰️ Current Studies
 
-Portfolio  
-Email  
-LinkedIn  
+Learning:
+
+→ Better software engineering  
+→ Stronger systems thinking  
+→ Creative technology  
 
 </td>
 
@@ -97,8 +173,8 @@ LinkedIn
 
 <div align="center">
 
-*"Blueprints become systems."*
-
 ⚙️
+
+*"Blueprints become reality."*
 
 </div>
