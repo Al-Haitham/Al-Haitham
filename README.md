@@ -27,6 +27,12 @@ Figma · Photoshop · Illustrator · Blender
 **Workflow**
 System Thinking · Modular Design · Prototyping
 
+<br>
+
+<img width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJheDJqdnhtbXJsOWkxNTdxNW53ZXV1enFoY3J6YzNobW83NHhjbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xonOzxf2M8hNu/giphy.gif">
+
+</td>
+
 </td>
 
 <td width="45%" valign="top">
