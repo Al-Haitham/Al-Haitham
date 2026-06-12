@@ -41,7 +41,7 @@ System Thinking · Modular Design · Prototyping
 
 <br>
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Al-Haitham&layout=compact&theme=dark&hide_border=true)
+<img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Al-Haitham&layout=compact&theme=dark&hide_border=true">
 
 </td>
 
