@@ -16,7 +16,7 @@
 <table>
 <tr>
 
-<td width="33%" align="center">
+<td width="100%" align="center">
 
 ## 🎨
 
@@ -29,7 +29,7 @@ Graphics
 
 </td>
 
-<td width="33%" align="center">
+<td width="100%" align="center">
 
 ## ⚙️
 
@@ -41,7 +41,7 @@ Experiments
 
 </td>
 
-<td width="33%" align="center">
+<td width="100%" align="center">
 
 ## 📚
 
@@ -61,7 +61,7 @@ Technology
 <table>
 <tr>
 
-<td width="50%">
+<td width="100%">
 
 ## 🕯 Archive
 
@@ -71,7 +71,7 @@ Designer who explores the space between:
 
 </td>
 
-<td width="50%">
+<td width="100%">
 
 ## 🗝 Current Focus
 
@@ -97,7 +97,7 @@ Building better:
 <table>
 <tr>
 
-<td width="25%" align="center">
+<td width="100%" align="center">
 
 ### Design
 
@@ -107,7 +107,7 @@ Blender
 
 </td>
 
-<td width="25%" align="center">
+<td width="100%" align="center">
 
 ### Frontend
 
@@ -117,7 +117,7 @@ JS
 
 </td>
 
-<td width="25%" align="center">
+<td width="100%" align="center">
 
 ### Backend
 
@@ -126,7 +126,7 @@ APIs
 
 </td>
 
-<td width="25%" align="center">
+<td width="100%" align="center">
 
 ### Tools
 
@@ -176,7 +176,7 @@ Notion
 <table>
 <tr>
 
-<td width="50%">
+<td width="100%">
 
 ## 📜 Projects
 
@@ -188,7 +188,7 @@ Notion
 
 </td>
 
-<td width="50%">
+<td width="100%">
 
 ## 🧭 Contact
 
