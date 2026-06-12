@@ -1,53 +1,94 @@
-# Haitam Nassouh
-
-> Designer. Developer. Builder of digital systems.
+# ⚙️ Haitam Nassouh
 
 <div align="center">
 
-### UI/UX Designer · Graphic Designer · Digital Developer
+### Designer × Developer
 
-*"Design is the blueprint. Code is the mechanism."
+Building digital systems where creativity meets engineering.
+
+*"Every interface is a machine. Every machine needs a blueprint."*
 
 </div>
 
 ---
 
-## ⚙️ About
+## 🕯️ Archive Entry
 
-I create digital experiences by combining visual design, technology, and structured thinking.
+I'm a UI/UX designer and developer interested in creating things that are both functional and visually intentional.
 
-My work lives between:
-- 🎨 Interface & visual design
-- 💻 Front-end development
-- 🧩 Systems, tools, and creative experiments
-
-Currently exploring the craft of building things — from interfaces to applications.
+I work across design, code, and digital experimentation — turning ideas into structured experiences.
 
 ---
 
-## 🛠️ Workshop
+<table>
+<tr>
 
-| Design | Development | Tools |
-| --- | --- | --- |
-| Figma | HTML / CSS | Git |
-| Photoshop | JavaScript | VS Code |
-| Illustrator | React | Blender |
-| Blender | PHP | Notion |
+<td width="50%">
+
+## 🎨 Design Desk
+
+- UI/UX Design
+- Visual Identity
+- Graphic Design
+- 3D Experiments
+
+**Tools**
+
+Figma · Photoshop · Illustrator · Blender
+
+</td>
+
+<td width="50%">
+
+## ⚙️ Development Lab
+
+- Front-end Development
+- Web Applications
+- Creative Coding
+
+**Stack**
+
+HTML · CSS · JavaScript · React · PHP
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 📜 Current Projects
+## 📜 Project Archives
 
-> A collection of experiments, designs, and systems under construction.
+> Current experiments and creations.
 
-- UI/UX explorations
-- Web applications
-- Creative coding projects
-- 3D & visual experiments
+<table>
+<tr>
+
+<td>
+
+### 🖥 Digital Systems
+
+Web projects, interfaces, and applications.
+
+</td>
+
+<td>
+
+### 🧩 Visual Experiments
+
+Designs, 3D work, and creative explorations.
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 <div align="center">
+
+## ⚙️ System Records
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Al-Haitham&theme=dark&background=1a1a2e&border=c9a227&ring=c9a227&fire=c9a227&currStreakNum=c9a227&sideNums=c9a227&dates=c9a227&sideLabels=ffffff&currStreakLabel=c9a227)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Al-Haitham&show_icons=true&theme=dark&hide_border=true)
 
@@ -57,17 +98,17 @@ Currently exploring the craft of building things — from interfaces to applicat
 
 ---
 
-## 🕯️ Contact
+<div align="center">
 
-📧 nassouhhaitham@gmail.com
+## 📬 Contact
 
-🌐 https://haitam-nassouh.figma.site/
+nassouhhaitham@gmail.com
+
+haitam-nassouh.figma.site
 
 ---
 
-<div align="center">
-
-*"Every system begins as an idea, then becomes a structure."*
+*"The blueprint comes first. The creation follows."*
 
 ⚙️
 
