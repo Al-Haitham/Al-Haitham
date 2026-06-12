@@ -29,7 +29,7 @@ System Thinking · Modular Design · Prototyping
 
 <br>
 
-<img width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJheDJqdnhtbXJsOWkxNTdxNW53ZXV1enFoY3J6YzNobW83NHhjbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xonOzxf2M8hNu/giphy.gif">
+<img width="100%" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXYzZ3VscHJwdXgyZDd0N3BqZTJteXA2N3Z2aHljMXVnMTdyZWp4NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUOxfaYvwwiINVdk6Q/giphy.gif">
 
 </td>
 
