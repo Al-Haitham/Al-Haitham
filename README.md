@@ -31,12 +31,6 @@ System Thinking · Modular Design · Prototyping
 
 <img width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXhlOXV3eXZtMndhbjh4MjJ4dmd2d3R0aDBoY3YzMjhvMXMwbDN3dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5lIyequaWt18988lql/giphy.gif">
 
-## Contact the Architect
-<div align="center">
-  - 📧 **Email**: nassouhhaitham@gmail.com(mailto:nassouhhaitham@gmail.com)
-  - 🌐 **Portfolio**: haitam-nassouh(https://haitam-nassouh.figma.site/)
-</div>
-
 </td>
 
 <td width="45%" valign="top">
