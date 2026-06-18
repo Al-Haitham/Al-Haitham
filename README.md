@@ -29,7 +29,7 @@ System Thinking · Modular Design · Prototyping
 
 <br>
 
-<img width="100%" src="https://tenor.com/SeAp.gif">
+<img width="100%" src="https://media.tenor.com/G1VOo6fVsn4AAAAd/keyboard-type.gif">
 
 </td>
 
