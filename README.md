@@ -16,7 +16,7 @@
 ## 🧰 SYSTEM CORE
 
 **Languages**
-HTML · CSS · JavaScript · PHP
+HTML · CSS · JavaScript · PHP · Python
 
 **Design**
 UI/UX · Graphic Design · Visual Identity
